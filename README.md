@@ -35,6 +35,9 @@ This project documents the preparation of a Windows-based virtual machine enviro
 **Prerequisites Setup**
 
 **Virtual Machine Configuration**
+<p>
+<img width="2543" height="1452" alt="Screenshot 2026-02-06 161151" src="https://github.com/user-attachments/assets/8539d908-3388-4bf7-b118-18d1a74b6b39" />
+</p>
 
 A Windows Server virtual machine was provisioned in Microsoft Azure with sufficient compute, memory, and storage resources to support a web application and database backend. Administrative credentials and networking settings were configured during deployment.
 
