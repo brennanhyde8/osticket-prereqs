@@ -49,6 +49,10 @@ This project documents the preparation of a Windows-based virtual machine enviro
 A Windows Server virtual machine was provisioned in Microsoft Azure with sufficient compute, memory, and storage resources to support a web application and database backend. Administrative credentials and networking settings were configured during deployment.
 
 **Remote Desktop Access**
+<p>
+<img width="850" height="509" alt="Screenshot RD" src="https://github.com/user-attachments/assets/b18ece02-509d-4fa4-83f6-4df8f12357dd" />
+</p>
+<br /p>
 
 Remote Desktop Protocol (RDP) was enabled to allow administrative access to the virtual machine. A successful RDP connection was established using the VM’s public IP address.
 
