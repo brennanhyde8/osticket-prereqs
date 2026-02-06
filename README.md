@@ -87,7 +87,6 @@ Downloading the osTicket installation file involves accessing the official osTic
 <img width="850" height="509" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/ee5df8c4-467c-4dc0-85a0-fb28c441f02c" />
 </p>
 <p>
-Here is a more formal, documentation-ready version:
 
 **Extracting the osTicket Installation File**
 
