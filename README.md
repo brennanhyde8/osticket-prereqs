@@ -28,44 +28,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 osTicket Deployment via Remote Desktop
 Phase 1: Prerequisites & Environment Setup
   
-Overview
+**Overview**
 
 This project documents the preparation of a Windows-based virtual machine environment for deploying osTicket. All prerequisite services and configurations were completed using Remote Desktop access to ensure a functional and secure installation environment.
 
-Prerequisites Setup
+**Prerequisites Setup**
 
-Virtual Machine Configuration
+**Virtual Machine Configuration**
 
 A Windows Server virtual machine was provisioned in Microsoft Azure with sufficient compute, memory, and storage resources to support a web application and database backend. Administrative credentials and networking settings were configured during deployment.
 
-Remote Desktop Access
+**Remote Desktop Access**
 
 Remote Desktop Protocol (RDP) was enabled to allow administrative access to the virtual machine. A successful RDP connection was established using the VM’s public IP address.
 
-Web Server (IIS)
+**Web Server (IIS)**
 
 Internet Information Services (IIS) was installed and configured to host osTicket. Required features, including CGI support, were enabled to allow PHP execution.
 
-PHP Configuration
+**PHP Configuration**
 
 PHP was installed and integrated with IIS. Required PHP extensions were enabled to ensure compatibility with osTicket functionality.
 
-Database Setup (MySQL)
+**Database Setup (MySQL)**
 
 MySQL was installed as the database backend. A dedicated osTicket database and user account were created with appropriate permissions.
 
-Networking & Security
+**Networking & Security**
 
 Inbound firewall and network security rules were configured to allow web traffic over HTTP (port 80) and HTTPS (port 443, if applicable).
 
-File System Preparation
+**File System Preparation**
 
 Directory permissions were configured to allow IIS to read and write required osTicket files.
 
-osTicket Installation Files
+**osTicket Installation Files**
 
 The osTicket installation package was downloaded and extracted, preparing the application files for placement in the web server’s root directory.
 
-Status
+**Status**
 
 ✔ Environment fully prepared and ready for osTicket deployment
