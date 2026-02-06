@@ -29,13 +29,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="2543" height="1452" alt="Screenshot 2026-02-06 161151" src="https://github.com/user-attachments/assets/1c2782d4-ad9e-4384-86f7-7c92a0cd3138" />
 </p>
 <p>
+<img width="2536" height="1460" alt="Screenshot 2026-02-06 161451" src="https://github.com/user-attachments/assets/d6ea7480-3147-4e88-ba1c-6eebf8ba7917" />
+</p>
+
 **Basics step – osTicket Virtual Machine (Azure)**
 
 In the "Basics" step, you define the core settings for the virtual machine that will host the osTicket help desk system. This includes selecting the Azure subscription and resource group, assigning a name to the VM, choosing the region, and selecting a supported operating system image (such as Ubuntu Server or Windows Server). You also choose the VM size based on expected workload and configure the administrator account and authentication method. These settings establish the identity, location, and initial access configuration for the osTicket server before networking, storage, and security options are configured.
 
 </p>
 <br />
-<img width="2536" height="1460" alt="Screenshot 2026-02-06 161451" src="https://github.com/user-attachments/assets/66ab85cf-de06-4664-8dca-4a73abf6a964" />
+<img width="2534" height="1398" alt="Screenshot 2026-02-06 161513" src="https://github.com/user-attachments/assets/5222895f-79a9-4459-9624-be151adfeec8" />
 <p>
 </p>
 <p>
