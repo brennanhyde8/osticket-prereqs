@@ -95,6 +95,10 @@ Internet Information Services (IIS) was installed and configured to host osTicke
 PHP was installed and integrated with IIS. Required PHP extensions were enabled to ensure compatibility with osTicket functionality.
 
 **Database Setup (MySQL)**
+<p>
+<img width="1277" height="770" alt="Screenshot RD8" src="https://github.com/user-attachments/assets/8fda2fc3-2164-4881-a946-ca17bd4a69be" />
+</p>
+<br /p>
 
 MySQL was installed as the database backend. A dedicated osTicket database and user account were created with appropriate permissions.
 
