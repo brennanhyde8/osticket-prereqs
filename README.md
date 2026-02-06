@@ -65,9 +65,22 @@ A Windows Server virtual machine was provisioned in Microsoft Azure with suffici
 Remote Desktop Protocol (RDP) was enabled to allow administrative access to the virtual machine. A successful RDP connection was established using the VM’s public IP address.
 
 **Web Server (IIS)**
+<p>
+<img width="850" height="509" alt="Screenshot RD2" src="https://github.com/user-attachments/assets/9e3342f3-6779-4e3f-8f6f-f8700e44171c" />
+</p>
+<p>
+<img width="850" height="509" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/ae3c512a-926f-46c9-b029-318cc2df31b1" />
+</p>
+<p>
+<img width="850" height="509" alt="Screenshot RD4" src="https://github.com/user-attachments/assets/297d8d93-2289-4579-8f20-ccc4fa2e9678" />
+</p>
+<br /p>
 
 Internet Information Services (IIS) was installed and configured to host osTicket. Required features, including CGI support, were enabled to allow PHP execution.
 
+<p>
+<br /p>
+  
 **PHP Configuration**
 
 PHP was installed and integrated with IIS. Required PHP extensions were enabled to ensure compatibility with osTicket functionality.
