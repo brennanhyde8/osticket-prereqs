@@ -54,6 +54,9 @@ In the "Networking" step, you configure how the osTicket virtual machine connect
 <img width="2533" height="1400" alt="Screenshot 2026-02-06 161545" src="https://github.com/user-attachments/assets/09545d8e-17e4-4b00-a03f-3ceeb21fa836" />
 </p>
 <p>
+**Review and create step – osTicket Virtual Machine (Azure)**
+
+In the "Review + Create" step, you verify all selected settings for the osTicket virtual machine, including the subscription, resource group, virtual machine size, operating system, networking configuration, and security rules required to access the osTicket web application and manage the server. Azure runs a validation check to ensure the configuration is correct and complete. Once validation passes, selecting **Create** deploys the virtual machine and the required Azure resources so the server can be prepared for installing and running osTicket.
 
 </p>
 <br />
