@@ -42,7 +42,11 @@ In the "Basics" step, you define the core settings for the virtual machine that 
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+**Networking step – osTicket Virtual Machine (Azure)**
+
+In the "Networking" step, you configure how the osTicket virtual machine connects to the network and how users and administrators will access it. This includes selecting or creating a virtual network and subnet, assigning a public IP address if the osTicket web interface must be reachable from the internet, and configuring network security group (NSG) rules to allow only required traffic (such as HTTP/HTTPS for users and SSH or RDP for administrators). Proper networking configuration ensures the osTicket server is accessible, secure, and correctly integrated into the Azure environment.
+
 </p>
 <br />
 
