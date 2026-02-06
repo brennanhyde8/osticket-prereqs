@@ -48,7 +48,7 @@ This project documents the preparation of a Windows-based virtual machine enviro
 
 A Windows Server virtual machine was provisioned in Microsoft Azure with sufficient compute, memory, and storage resources to support a web application and database backend. Administrative credentials and networking settings were configured during deployment.
 
-
+<p>
 <br /p>
 **Remote Desktop Access**
 <p>
