@@ -50,6 +50,7 @@ A Windows Server virtual machine was provisioned in Microsoft Azure with suffici
 
 <p>
 <br /p>
+  
 **Remote Desktop Access**
 <p>
 <img width="850" height="509" alt="Screenshot RD" src="https://github.com/user-attachments/assets/b18ece02-509d-4fa4-83f6-4df8f12357dd" />
