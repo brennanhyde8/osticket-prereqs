@@ -68,3 +68,10 @@ In the "Review + Create" step, you verify all selected settings for the osTicket
 **Deploying the virtual machine using Remote Desktop**
 
 Deploying the virtual machine using Remote Desktop involves connecting to the newly created Azure virtual machine through the Remote Desktop Protocol (RDP) to perform post-deployment setup and configuration. After establishing the Remote Desktop connection, the administrator verifies the operating system, applies updates, and prepares the server environment for its intended role (such as hosting osTicket). This step ensures the virtual machine is accessible, properly configured, and ready for application installation and management through a remote administrative session.
+
+</p>
+<br />
+
+<p>
+<img width="850" height="509" alt="Screenshot RD2" src="https://github.com/user-attachments/assets/2aaba9bc-bcfc-4bfc-975f-dfff0b3a6ea3" />
+</p>
