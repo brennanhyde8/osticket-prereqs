@@ -79,3 +79,10 @@ Deploying the virtual machine using Remote Desktop involves connecting to the ne
 **Downloading the osTicket installation file**
 
 Downloading the osTicket installation file involves accessing the official osTicket website from the virtual machine and obtaining the latest stable release of the osTicket software package. The installation file is saved to the virtual machine so it can be extracted and used by the web server during setup. This step ensures that the correct and up-to-date osTicket files are available for installation and configuration on the server.
+
+</p>
+<br /p>
+
+<p>
+<img width="850" height="509" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/ee5df8c4-467c-4dc0-85a0-fb28c441f02c" />
+</p>
