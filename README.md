@@ -91,6 +91,7 @@ Internet Information Services (IIS) was installed and configured to host osTicke
 <p>
 <img width="1277" height="770" alt="Screenshot RD7" src="https://github.com/user-attachments/assets/b2987129-685a-4824-be0b-82cfba0f57eb" />
 </p>
+<br /p>
 
 PHP was installed and integrated with IIS. Required PHP extensions were enabled to ensure compatibility with osTicket functionality.
 
