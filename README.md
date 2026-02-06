@@ -32,6 +32,9 @@ Phase 1: Prerequisites & Environment Setup
 
 This project documents the preparation of a Windows-based virtual machine environment for deploying osTicket. All prerequisite services and configurations were completed using Remote Desktop access to ensure a functional and secure installation environment.
 
+<p>
+<br /P>
+
 **Prerequisites Setup**
 <p>
 <br /P>
