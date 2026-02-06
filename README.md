@@ -64,6 +64,9 @@ A Windows Server virtual machine was provisioned in Microsoft Azure with suffici
 
 Remote Desktop Protocol (RDP) was enabled to allow administrative access to the virtual machine. A successful RDP connection was established using the VM’s public IP address.
 
+<p>
+<br /p>
+  
 **Web Server (IIS)**
 <p>
 <img width="850" height="509" alt="Screenshot RD2" src="https://github.com/user-attachments/assets/9e3342f3-6779-4e3f-8f6f-f8700e44171c" />
