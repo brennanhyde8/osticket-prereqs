@@ -105,6 +105,10 @@ This guide documents the installation of **osTicket** on a Windows virtual machi
 
 ## 2. Obtain Installation Files
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD5" src="https://github.com/user-attachments/assets/24105e80-2191-4560-848b-91524c20bcce" />
+</p>
+
 1. Within the VM, download **osTicket-Installation-Files.zip**
 2. Extract the archive to the **Desktop**
 3. Verify the extracted directory is named:
