@@ -22,7 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 3
 - Item 4
 - Item 5
+---
+Creating the Azure Virtual Machine for osTicket
 
+This section documents the creation of a Windows Virtual Machine in Microsoft Azure to host the osTicket help desk application. The virtual machine provides the compute environment required to install IIS, PHP, MySQL, and osTicket.
 ---
 
 # osTicket Deployment on Windows Azure VM (IIS + PHP + MySQL)
