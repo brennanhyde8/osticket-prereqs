@@ -333,19 +333,25 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 13. Create the osTicket Database
 
+<p>
+<img width="851" height="495" alt="Screenshot RD21" src="https://github.com/user-attachments/assets/6e8823fc-c407-4a3d-b0d3-d3641fc59e9c" />
+</p>
+
 1. Install **HeidiSQL**
 2. Launch HeidiSQL
 3. Create a new session using:
 
-   ```
-   Username: root
-   Password: root
-   ```
+   - Username: root
+   - Password: root
+
+<p>
+<img width="852" height="497" alt="Screenshot RD22" src="https://github.com/user-attachments/assets/5092fa41-32bf-4eda-9300-560b7a36d11d" />
+</p>
+
 4. Connect and create a database named:
 
-   ```
-   osTicket
-   ```
+   - "osTicket"
+   
 
 ---
 
