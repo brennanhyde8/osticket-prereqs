@@ -401,7 +401,9 @@ osTicket is now fully operational on a Windows Azure VM, configured with IIS, PH
 
 ---
 
-Conclusion: osTicket Prerequisites & Installation via Remote Desktop
+## Conclusion: osTicket Prerequisites & Installation via Remote Desktop
+
+---
 
 Successfully setting up osTicket in a Remote Desktop environment demonstrates foundational IT skills in virtualization, server configuration, and web application deployment.
 
