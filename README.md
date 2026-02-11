@@ -23,22 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
-<h2>Installation Steps</h2>
-<p>
-osTicket Deployment via Remote Desktop
-Phase 1: Prerequisites & Environment Setup
-  
-**Overview**
-
-This project documents the preparation of a Windows-based virtual machine environment for deploying osTicket. All prerequisite services and configurations were completed using Remote Desktop access to ensure a functional and secure installation environment.
-
-<p>
-<br /P>
-
-**Prerequisites Setup**
-<p>
-<br /P>
-
 ---
 
 # osTicket Deployment on Windows Azure VM (IIS + PHP + MySQL)
