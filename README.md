@@ -45,7 +45,7 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 </p>
 
 * Select the previously created resource group
-* Name the virtual machine `osticket-vm`
+* Name the virtual machine "osticket-vm"
 * Choose the same region as the resource group
 * Select a Windows Server 2019/2022 or Windows 10/11 image
 * Choose a size with at least 2 vCPUs and 4 GB of memory
