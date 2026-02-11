@@ -377,15 +377,21 @@ Click "Install Now" to complete setup.
 
 ### Administrator Portal
 
-```
-http://localhost/osTicket/scp/login.php
-```
+<p>
+<img width="852" height="497" alt="Screenshot RD24" src="https://github.com/user-attachments/assets/4cddcf32-fd02-413a-82e6-127b245ae428" />
+</p>
+
+  - http://localhost/osTicket/scp/login.php
+
 
 ### End User Portal
 
-```
-http://localhost/osTicket/
-```
+<p>
+<img width="852" height="497" alt="Screenshot RD25" src="https://github.com/user-attachments/assets/2e3cfde6-b362-4fbe-b0d5-336228b2ebec" />
+</p>
+
+  - http://localhost/osTicket/
+
 
 ---
 
