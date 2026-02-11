@@ -364,9 +364,9 @@ From the **osTicket-Installation-Files** directory, install:
 In the osTicket installer:
 
 
-- Database Name: osTicket
-- Database User: root
-- Database Password: root
+ - Database Name: osTicket
+ - Database User: root
+ - Database Password: root
 
 
 Click "Install Now" to complete setup.
