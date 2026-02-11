@@ -116,7 +116,6 @@ This guide documents the installation of **osTicket** on a Windows virtual machi
 
    "osticket-Installation-Files"
    ```
-
 This directory contains osTicket and all necessary supporting installers.
 
 ---
