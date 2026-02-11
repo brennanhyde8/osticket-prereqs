@@ -398,36 +398,40 @@ Click "Install Now" to complete setup.
 ## 🎉 Deployment Complete
 
 osTicket is now fully operational on a Windows Azure VM, configured with IIS, PHP, and MySQL, and ready for help desk use.
+
+---
+
 Conclusion: osTicket Prerequisites & Installation via Remote Desktop
 
 Successfully setting up osTicket in a Remote Desktop environment demonstrates foundational IT skills in virtualization, server configuration, and web application deployment.
 
 Throughout this project, we:
 
-Provisioned a virtual machine in Microsoft Azure
+- Provisioned a virtual machine in Microsoft Azure
 
-Configured networking and security settings
+- Configured networking and security settings
 
-Connected to the VM using Remote Desktop Protocol (RDP)
+- Connected to the VM using Remote Desktop Protocol (RDP)
 
 Installed required prerequisites:
 
-IIS (Web Server)
+- IIS (Web Server)
 
-PHP Manager
+- PHP Manager
 
-MySQL
+- MySQL
 
-Visual C++ Redistributables
+- Visual C++ Redistributables
 
-URL Rewrite Module
+- URL Rewrite Module
 
-Configured PHP settings and IIS extensions
+- Configured PHP settings and IIS extensions
 
-Deployed the osTicket files
+- Deployed the osTicket files
 
-Created and connected to a MySQL database
+- Created and connected to a MySQL database
 
-Completed the web-based installation wizard
+- Completed the web-based installation wizard
+
 
 By completing these steps, we transformed a fresh Windows Server VM into a fully functional help desk ticketing system.
