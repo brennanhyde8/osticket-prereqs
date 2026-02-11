@@ -124,7 +124,7 @@ This directory contains osTicket and all necessary supporting installers.
 ## 3. Enable Internet Information Services (IIS)
 
 <p>
-<img width="1277" height="770" alt="Screenshot RD6" src="https://github.com/user-attachments/assets/8585d81e-51b7-403a-9014-d55761567835" />
+<img width="1277" height="770" alt="Screenshot RD6" src="https://github.com/user-attachments/assets/527d9dfa-1d9b-4c42-89dd-53fb8a02bacf" />
 </p>
 
 1. Open **Windows Features**
