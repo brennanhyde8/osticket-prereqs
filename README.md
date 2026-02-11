@@ -55,6 +55,10 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 
 ### Networking Configuration
 
+<p>
+<img width="2542" height="1463" alt="Screenshot 2026-02-10 191112" src="https://github.com/user-attachments/assets/a9e45507-2f70-46f0-b2bd-7b460e0c31e6" />
+</p>
+
 1. Select or create a virtual network and subnet.
 2. Assign a public IP address to the virtual machine.
 3. Configure the network security group to allow inbound traffic for:
@@ -66,6 +70,10 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 ---
 
 ### Review and Deployment
+
+<p>
+<img width="2554" height="1462" alt="Screenshot 2026-02-10 191155" src="https://github.com/user-attachments/assets/83d613ad-f310-407c-b01b-39df6b11123b" />
+</p>
 
 1. Review all configuration settings.
 2. Select **Review + Create**.
