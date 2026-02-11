@@ -23,9 +23,55 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 ---
-Creating the Azure Virtual Machine for osTicket
+# Creating the Azure Virtual Machine for osTicket
 
 This section documents the creation of a Windows Virtual Machine in Microsoft Azure to host the osTicket help desk application. The virtual machine provides the compute environment required to install IIS, PHP, MySQL, and osTicket.
+
+Virtual Machine Setup
+
+Navigate to Virtual Machines and select Create.
+
+Choose Azure virtual machine.
+
+Basics Configuration
+
+Select the previously created resource group
+
+Name the virtual machine osticket-vm
+
+Choose the same region as the resource group
+
+Select a Windows Server 2019/2022 or Windows 10/11 image
+
+Choose a size with at least 2 vCPUs and 4 GB of memory
+
+Set authentication to username and password
+
+Create administrator credentials
+
+Networking Configuration
+
+Select or create a virtual network and subnet.
+
+Assign a public IP address to the virtual machine.
+
+Configure the network security group to allow inbound traffic for:
+
+Remote Desktop Protocol on TCP port 3389
+
+HTTP traffic on TCP port 80
+
+HTTPS traffic on TCP port 443 (optional but recommended)
+
+Review and Deployment
+
+Review all configuration settings.
+
+Select Review + Create.
+
+Click Create to deploy the virtual machine.
+
+The deployment process may take several minutes to complete.
 ---
 
 # osTicket Deployment on Windows Azure VM (IIS + PHP + MySQL)
