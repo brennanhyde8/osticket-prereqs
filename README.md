@@ -212,6 +212,7 @@ From the **osTicket-Installation-Files** directory, install:
 5. Set credentials:
 
    Username: root
+   
    Password: root
    
 
@@ -245,14 +246,12 @@ From the **osTicket-Installation-Files** directory, install:
    
 2. Copy the **upload** directory to:
 
-   ```
-   C:\inetpub\wwwroot
-   ```
+   - "C:\inetpub\wwwroot"
+   
 3. Rename the folder:
 
-   ```
-   upload → osTicket
-   ```
+   - "upload → osTicket"
+   
 4. Restart IIS to apply changes
 
 ---
@@ -265,9 +264,8 @@ From the **osTicket-Installation-Files** directory, install:
 
 1. In IIS Manager, navigate to:
 
-   ```
-   Sites → Default Web Site → osTicket
-   ```
+   - "Sites → Default Web Site → osTicket"
+   
 2. Click **Browse *:80** to open the installer page
 
 ---
