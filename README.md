@@ -395,7 +395,7 @@ Click "Install Now" to complete setup.
 
 ---
 
-## 🎉 Deployment Complete
+## Deployment Complete
 
 osTicket is now fully operational on a Windows Azure VM, configured with IIS, PHP, and MySQL, and ready for help desk use.
 
