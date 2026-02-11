@@ -229,6 +229,10 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 7. Register PHP with IIS
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD13" src="https://github.com/user-attachments/assets/dc54165f-6097-4aaa-9857-4761edadb043" />
+</p>
+
 1. Launch **IIS Manager** as an administrator
 2. Open **PHP Manager**
 3. Register the PHP executable:
