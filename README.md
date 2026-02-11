@@ -23,55 +23,54 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 ---
-# Creating the Azure Virtual Machine for osTicket
+
+## Creating the Azure Virtual Machine for osTicket
 
 This section documents the creation of a Windows Virtual Machine in Microsoft Azure to host the osTicket help desk application. The virtual machine provides the compute environment required to install IIS, PHP, MySQL, and osTicket.
 
-Virtual Machine Setup
+---
 
-Navigate to Virtual Machines and select Create.
+### Virtual Machine Setup
 
-Choose Azure virtual machine.
+1. Navigate to **Virtual Machines** and select **Create**.
+2. Choose **Azure virtual machine**.
 
-Basics Configuration
+#### Basics Configuration
 
-Select the previously created resource group
+* Select the previously created resource group
+* Name the virtual machine `osticket-vm`
+* Choose the same region as the resource group
+* Select a Windows Server 2019/2022 or Windows 10/11 image
+* Choose a size with at least 2 vCPUs and 4 GB of memory
+* Set authentication to username and password
+* Create administrator credentials
 
-Name the virtual machine osticket-vm
+---
 
-Choose the same region as the resource group
+### Networking Configuration
 
-Select a Windows Server 2019/2022 or Windows 10/11 image
+1. Select or create a virtual network and subnet.
+2. Assign a public IP address to the virtual machine.
+3. Configure the network security group to allow inbound traffic for:
 
-Choose a size with at least 2 vCPUs and 4 GB of memory
+   * Remote Desktop Protocol on TCP port 3389
+   * HTTP traffic on TCP port 80
+   * HTTPS traffic on TCP port 443 (optional but recommended)
 
-Set authentication to username and password
+---
 
-Create administrator credentials
+### Review and Deployment
 
-Networking Configuration
-
-Select or create a virtual network and subnet.
-
-Assign a public IP address to the virtual machine.
-
-Configure the network security group to allow inbound traffic for:
-
-Remote Desktop Protocol on TCP port 3389
-
-HTTP traffic on TCP port 80
-
-HTTPS traffic on TCP port 443 (optional but recommended)
-
-Review and Deployment
-
-Review all configuration settings.
-
-Select Review + Create.
-
-Click Create to deploy the virtual machine.
+1. Review all configuration settings.
+2. Select **Review + Create**.
+3. Click **Create** to deploy the virtual machine.
 
 The deployment process may take several minutes to complete.
+
+---
+
+Once connectivity is confirmed, the virtual machine is ready for osTicket prerequisite installation and configuration.
+
 ---
 
 # osTicket Deployment on Windows Azure VM (IIS + PHP + MySQL)
