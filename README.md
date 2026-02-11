@@ -357,15 +357,19 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 14. Finish Installation
 
+<p>
+<img width="852" height="497" alt="Screenshot RD23" src="https://github.com/user-attachments/assets/34c7d6be-4927-4274-9dfc-e63ec2b0f2ec" />
+</p>
+
 In the osTicket installer:
 
-```
-Database Name: osTicket
-Database User: root
-Database Password: root
-```
 
-Click **Install Now** to complete setup.
+- Database Name: osTicket
+- Database User: root
+- Database Password: root
+
+
+Click "Install Now" to complete setup.
 
 ---
 
