@@ -39,8 +39,6 @@ This project documents the preparation of a Windows-based virtual machine enviro
 <p>
 <br /P>
 
-Got you 👍 — here’s a **full rewrite in different wording**, same steps and accuracy, but phrased cleanly and professionally so it doesn’t look copied. This version is still **GitHub-ready** and reads like original documentation.
-
 ---
 
 # osTicket Deployment on Windows Azure VM (IIS + PHP + MySQL)
