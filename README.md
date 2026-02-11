@@ -294,13 +294,19 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 11. Prepare osTicket Configuration File
 
+<p>
+<img width="851" height="495" alt="Screenshot RD18" src="https://github.com/user-attachments/assets/89520126-fa2e-4d97-a072-f4261facccde" />
+</p>
+
 ### Rename the Configuration File
 
-```
-C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 →
-C:\inetpub\wwwroot\osTicket\include\ost-config.php
-```
+- C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+<p>
+<img width="851" height="495" alt="Screenshot RD19" src="https://github.com/user-attachments/assets/b9918041-b053-4e58-9eb3-59563768a84a" />
+</p>
 
 ### Adjust Permissions
 
@@ -308,9 +314,8 @@ C:\inetpub\wwwroot\osTicket\include\ost-config.php
 2. Remove existing entries
 3. Add:
 
-   ```
-   Everyone → Full Control
-   ```
+  - Everyone → Full Control
+   
 
 ---
 
