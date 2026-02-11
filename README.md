@@ -35,6 +35,8 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 1. Navigate to **Virtual Machines** and select **Create**.
 2. Choose **Azure virtual machine**.
 
+---
+
 #### Basics Configuration
 
 <p>
