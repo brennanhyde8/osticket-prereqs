@@ -179,6 +179,9 @@ From the **osTicket-Installation-Files** directory, install:
    ```
    C:\PHP
    ```
+<p>
+<img width="1277" height="770" alt="Screenshot RD10" src="https://github.com/user-attachments/assets/f172df26-9d2e-4238-ad77-bdda7569dd28" />
+</p>
 2. Extract:
 
    ```
