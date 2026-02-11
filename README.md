@@ -37,7 +37,8 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 
 ---
 
-#### Basics Configuration
+### Basics Configuration
+
 <p>
 <img width="2542" height="1458" alt="Screenshot 2026-02-10 190809" src="https://github.com/user-attachments/assets/3b0d35d4-4841-4a03-bda4-a989b91bbfe0" />
 </p>
