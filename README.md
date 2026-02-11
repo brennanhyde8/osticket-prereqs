@@ -130,14 +130,12 @@ This directory contains osTicket and all necessary supporting installers.
 2. Enable **Internet Information Services**
 3. Navigate to:
 
-   ```
-   World Wide Web Services → Application Development Features
-   ```
+   - "World Wide Web Services → Application Development Features"
+    
 4. Enable:
 
-   ```
-   CGI
-   ```
+   - "CGI"
+   
 5. Apply the changes and allow Windows to complete setup
 
 ---
