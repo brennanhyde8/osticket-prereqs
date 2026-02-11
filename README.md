@@ -182,6 +182,7 @@ From the **osTicket-Installation-Files** directory, install:
 <p>
 <img width="1277" height="770" alt="Screenshot RD10" src="https://github.com/user-attachments/assets/f172df26-9d2e-4238-ad77-bdda7569dd28" />
 </p>
+
 2. Extract:
 
    ```
@@ -189,6 +190,11 @@ From the **osTicket-Installation-Files** directory, install:
    ```
 
    into the `C:\PHP` directory
+   
+   ---
+<p>
+<img width="1277" height="770" alt="Screenshot RD11" src="https://github.com/user-attachments/assets/0c90f108-065a-4c5d-a266-d3ad40f38282" />
+</p>
    
 3. Install the required runtime:
 
