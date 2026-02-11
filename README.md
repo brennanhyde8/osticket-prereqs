@@ -189,6 +189,7 @@ From the **osTicket-Installation-Files** directory, install:
    ```
 
    into the `C:\PHP` directory
+   
 3. Install the required runtime:
 
    ```
