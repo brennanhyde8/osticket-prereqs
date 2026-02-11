@@ -272,15 +272,22 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 10. Enable Required PHP Extensions
 
+<p>
+<img width="851" height="494" alt="Screenshot RD16" src="https://github.com/user-attachments/assets/514aa9ec-8560-4e23-b8f7-4cfcdd91e85c" />
+</p>
+
+<p>
+<img width="851" height="495" alt="Screenshot RD17" src="https://github.com/user-attachments/assets/55dc13b3-055d-42f5-870e-e7ff03967e1b" />
+</p>
+
 1. In IIS, open **PHP Manager** for the osTicket site
 2. Select **Enable or disable an extension**
 3. Enable the following:
 
-   ```
-   php_imap.dll
-   php_intl.dll
-   php_opcache.dll
-   ```
+   - php_imap.dll
+   - php_intl.dll
+   - php_opcache.dll
+   
 4. Refresh the installer page to confirm changes
 
 ---
