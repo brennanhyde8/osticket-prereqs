@@ -81,7 +81,6 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 
 The deployment process may take several minutes to complete.
 
----
 
 Once connectivity is confirmed, the virtual machine is ready for osTicket prerequisite installation and configuration.
 
