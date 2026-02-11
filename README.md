@@ -271,6 +271,10 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 9. Launch the Installer
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD15" src="https://github.com/user-attachments/assets/de792156-b0bf-4b25-a808-ae4c3b141d1a" />
+</p>
+
 1. In IIS Manager, navigate to:
 
    ```
