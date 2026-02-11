@@ -147,6 +147,10 @@ This directory contains osTicket and all necessary supporting installers.
 
 From the **osTicket-Installation-Files** directory, install:
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD7" src="https://github.com/user-attachments/assets/52bec86c-0d7b-49cf-b2e5-b5add40ce3c7" />
+</p>
+
 * **PHP Manager for IIS**
 
   ```
