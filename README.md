@@ -206,6 +206,10 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 6. Install MySQL Server
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD12" src="https://github.com/user-attachments/assets/4714e83c-423d-4583-9a08-396a5e6418c9" />
+</p>
+
 1. Run:
 
    ```
