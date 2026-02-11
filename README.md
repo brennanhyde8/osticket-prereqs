@@ -246,6 +246,10 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 8. Deploy osTicket Application Files
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD14" src="https://github.com/user-attachments/assets/744e99ba-e5f5-4399-99f4-de1350afd98a" />
+</p>
+
 1. Extract:
 
    ```
