@@ -99,7 +99,7 @@ This guide documents the installation of **osTicket** on a Windows virtual machi
 <img width="2542" height="1462" alt="Screenshot 2026-02-10 195827" src="https://github.com/user-attachments/assets/c5f9ce58-003b-4cba-a1ec-d11920d10935" />
 </p>
 
-* Connect to the Azure virtual machine (`osticket-vm`) using **Remote Desktop**
+* Connect to the Azure virtual machine (osticket-vm) using **Remote Desktop**
 * All configuration and installation tasks are performed within the VM
 
 ---
