@@ -40,7 +40,7 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 ### Basics Configuration
 
 <p>
-<img width="2542" height="1458" alt="Screenshot 2026-02-10 190809" src="https://github.com/user-attachments/assets/3b0d35d4-4841-4a03-bda4-a989b91bbfe0" />
+<img width="2551" height="1459" alt="Screenshot 2026-02-10 195245" src="https://github.com/user-attachments/assets/36f6faa9-a00f-4b57-a2f0-e5345ae20858" />
 </p>
 
 * Select the previously created resource group
@@ -56,7 +56,7 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 ### Networking Configuration
 
 <p>
-<img width="2542" height="1463" alt="Screenshot 2026-02-10 191112" src="https://github.com/user-attachments/assets/a9e45507-2f70-46f0-b2bd-7b460e0c31e6" />
+<img width="2548" height="1460" alt="Screenshot 2026-02-10 195345" src="https://github.com/user-attachments/assets/915b46ab-33ba-4b8d-8ed8-84a74b14704c" />
 </p>
 
 1. Select or create a virtual network and subnet.
@@ -72,7 +72,7 @@ This section documents the creation of a Windows Virtual Machine in Microsoft Az
 ### Review and Deployment
 
 <p>
-<img width="2554" height="1462" alt="Screenshot 2026-02-10 191155" src="https://github.com/user-attachments/assets/83d613ad-f310-407c-b01b-39df6b11123b" />
+<img width="2547" height="1456" alt="Screenshot 2026-02-10 195417" src="https://github.com/user-attachments/assets/c415d80f-bcc1-4edc-a179-54d5efbdca26" />
 </p>
 
 1. Review all configuration settings.
