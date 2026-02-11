@@ -115,7 +115,7 @@ This guide documents the installation of **osTicket** on a Windows virtual machi
 3. Verify the extracted directory is named:
 
    "osticket-Installation-Files"
-   ```
+   
 This directory contains osTicket and all necessary supporting installers.
 
 ---
