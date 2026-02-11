@@ -171,20 +171,18 @@ From the **osTicket-Installation-Files** directory, install:
 
 1. Create the following directory:
 
-   ```
-   C:\PHP
-   ```
+  - "C:\PHP"
+   
 <p>
 <img width="1277" height="770" alt="Screenshot RD10" src="https://github.com/user-attachments/assets/f172df26-9d2e-4238-ad77-bdda7569dd28" />
 </p>
 
 2. Extract:
 
-   ```
-   php-7.3.8-nts-Win32-VC15-x86.zip
-   ```
+   - "php-7.3.8-nts-Win32-VC15-x86.zip"
+   
 
-   into the `C:\PHP` directory
+   into the "C:\PHP" directory
    
    ---
 <p>
@@ -193,9 +191,8 @@ From the **osTicket-Installation-Files** directory, install:
    
 3. Install the required runtime:
 
-   ```
-   VC_redist.x86.exe
-   ```
+   - "VC_redist.x86.exe"
+   
 
 ---
 
@@ -207,18 +204,16 @@ From the **osTicket-Installation-Files** directory, install:
 
 1. Run:
 
-   ```
-   mysql-5.5.62-win32.msi
-   ```
+   - "mysql-5.5.62-win32.msi"
+   
 2. Choose **Typical Installation**
 3. Launch the **Configuration Wizard**
 4. Select **Standard Configuration**
 5. Set credentials:
 
-   ```
    Username: root
    Password: root
-   ```
+   
 
 ---
 
@@ -232,9 +227,8 @@ From the **osTicket-Installation-Files** directory, install:
 2. Open **PHP Manager**
 3. Register the PHP executable:
 
-   ```
-   C:\PHP\php-cgi.exe
-   ```
+   - "C:\PHP\php-cgi.exe"
+   
 4. Restart IIS by stopping and starting the server
 
 ---
@@ -247,9 +241,8 @@ From the **osTicket-Installation-Files** directory, install:
 
 1. Extract:
 
-   ```
-   osTicket-v1.15.8.zip
-   ```
+   - "osTicket-v1.15.8.zip"
+   
 2. Copy the **upload** directory to:
 
    ```
