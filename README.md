@@ -325,9 +325,9 @@ From the **osTicket-Installation-Files** directory, install:
 <img width="851" height="495" alt="Screenshot RD20" src="https://github.com/user-attachments/assets/9c0d8794-25e1-4d5b-98ca-483035361bbd" />
 </p>
 
-* Click **Continue**
-* Specify the help desk name
-* Configure the default system email address
+1. Click "Continue"
+2. Specify the help desk name
+3. Configure the default system email address
 
 ---
 
