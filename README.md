@@ -150,18 +150,16 @@ From the **osTicket-Installation-Files** directory, install:
 
 * **PHP Manager for IIS**
 
-  ```
-  PHPManagerForIIS_V1.5.0.msi
-  ```
+  - "PHPManagerForIIS_V1.5.0.msi"
+  
 <p>
 <img width="1277" height="770" alt="Screenshot RD8" src="https://github.com/user-attachments/assets/ea016480-8ecb-4def-9302-b90b23eb3342" />
 </p>
 
 * **IIS URL Rewrite Module**
 
-  ```
-  rewrite_amd64_en-US.msi
-  ```
+  - "rewrite_amd64_en-US.msi"
+  
 
 ---
 
