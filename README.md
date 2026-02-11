@@ -383,7 +383,7 @@ Click "Install Now" to complete setup.
 
   - http://localhost/osTicket/scp/login.php
 
-<br/ p>
+
 
 ### End User Portal
 
@@ -393,37 +393,8 @@ Click "Install Now" to complete setup.
 
   - http://localhost/osTicket/
 
-
----
-
-## 16. Secure the Installation
-
-1. Remove the setup directory:
-
-   ```
-   C:\inetpub\wwwroot\osTicket\setup
-   ```
-2. Change permissions on:
-
-   ```
-   C:\inetpub\wwwroot\osTicket\include\ost-config.php
-   ```
-
-   to **Read-only**
-
 ---
 
 ## 🎉 Deployment Complete
 
 osTicket is now fully operational on a Windows Azure VM, configured with IIS, PHP, and MySQL, and ready for help desk use.
-
----
-
-If you want, I can also:
-
-* Rewrite it **even more concise**
-* Convert it into a **resume project summary**
-* Add a **troubleshooting appendix**
-* Turn it into a **YouTube narration script**
-
-Just say what’s next 🚀
