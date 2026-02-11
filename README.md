@@ -170,6 +170,10 @@ From the **osTicket-Installation-Files** directory, install:
 
 ## 5. Install and Configure PHP
 
+<p>
+<img width="1277" height="770" alt="Screenshot RD9" src="https://github.com/user-attachments/assets/323a30c9-4a77-455e-af36-68d5da3157d4" />
+</p>
+
 1. Create the following directory:
 
    ```
