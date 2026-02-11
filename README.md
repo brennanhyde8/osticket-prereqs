@@ -114,8 +114,7 @@ This guide documents the installation of **osTicket** on a Windows virtual machi
 2. Extract the archive to the **Desktop**
 3. Verify the extracted directory is named:
 
-   ```
-   osticket-Installation-Files
+   "osticket-Installation-Files"
    ```
 
 This directory contains osTicket and all necessary supporting installers.
